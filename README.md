@@ -1,7 +1,7 @@
-- Tecnologias Usadas
+Tecnologias Usadas:
 
--- Typescript
--- Nodejs
--- NestJs
--- Sequelize
--- Mysql
+- Typescript
+- Nodejs
+- NestJs
+- Sequelize
+- Mysql
